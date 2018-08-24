@@ -3,7 +3,6 @@ person note in github
 
 
 索引
-
 ---
 1. 各公司架构   
 https://github.com/davideuler/architecture.of.internet-product
